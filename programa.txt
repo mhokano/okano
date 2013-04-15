@@ -1,1 +1,2 @@
-ls dir
+ls dira
+mais texto
